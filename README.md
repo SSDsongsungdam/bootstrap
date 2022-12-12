@@ -1,2 +1,2 @@
-# [GitHub](https://ssdsongsungdam.github.io/StartBootstrap/)
-# [Netlify](https://genuine-gaufre-f5fd6a.netlify.app)
+# [GitHub](https://ssdsongsungdam.github.io/bootstrap/)
+# [Netlify](https://elegant-blini-b68bd1.netlify.app)
